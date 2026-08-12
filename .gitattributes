@@ -1,0 +1,9 @@
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.cff text eol=lf
+*.bib text eol=lf
+S6_selected_recipes.csv -text
+manifest_protocol_A.csv -text
+manifest_protocol_B.csv -text

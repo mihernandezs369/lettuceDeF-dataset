@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper listed under preferred-citation."
+title: "LettuceDeF benchmark reproducer"
+type: software
+version: 1.0.0
+date-released: 2026-08-12
+license: MIT
+repository-code: "https://github.com/mihernandezs369/lettuceDeF-dataset"
+authors:
+  - family-names: "Hernández-Sandoval"
+    given-names: "Misael"
+    orcid: "https://orcid.org/0000-0001-6229-5295"
+  - family-names: "Salazar-Colores"
+    given-names: "Sebastián"
+  - family-names: "Ramírez-Pedraza"
+    given-names: "Alfonso"
+    orcid: "https://orcid.org/0000-0003-0366-6249"
+  - family-names: "Martínez-Ponce"
+    given-names: "Geminiano"
+    orcid: "https://orcid.org/0000-0002-2097-4756"
+  - family-names: "Rodríguez-Reséndiz"
+    given-names: "Juvenal"
+    orcid: "https://orcid.org/0000-0001-8598-5600"
+  - family-names: "Valentín-Coronado"
+    given-names: "Luis"
+    orcid: "https://orcid.org/0000-0002-9874-4088"
+preferred-citation:
+  type: article
+  title: "Beyond random splits: Temporal robustness of vision foundation models for lettuce nutritional diagnosis"
+  year: 2026
+  doi: "10.2139/ssrn.6876395"
+  url: "https://doi.org/10.2139/ssrn.6876395"
+  authors:
+    - family-names: "Hernández-Sandoval"
+      given-names: "Misael"
+    - family-names: "Salazar-Colores"
+      given-names: "Sebastián"
+    - family-names: "Ramírez-Pedraza"
+      given-names: "Alfonso"
+    - family-names: "Martínez-Ponce"
+      given-names: "Geminiano"
+    - family-names: "Rodríguez-Reséndiz"
+      given-names: "Juvenal"
+    - family-names: "Valentín-Coronado"
+      given-names: "Luis"
